@@ -158,19 +158,17 @@ a.card-button:hover {
 
 @media (max-width: 375px) {
   #my-project {
-    padding: 30px; 
-    padding-top:90px
+    padding: 20px; 
+    padding-top:90px;
+    margin: 0px;
   }
 
   .card {
-    width: 90%; 
+    width:100%; 
   }
 
-    a.card-button {
-    padding: 4px 4px; 
-  }
-
-  .button-text{
+  a.card-button {
+    padding: 5px 3px; 
     font-size: 12px;
   }
 }
