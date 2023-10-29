@@ -166,8 +166,12 @@ a.card-button:hover {
     width: 90%; 
   }
 
-  a.card-button {
-    padding: 10px 8px; 
+    a.card-button {
+    padding: 4px 4px; 
+  }
+
+  .button-text{
+    font-size: 12px;
   }
 }
 @media (min-width: 1200px) {
